@@ -1,0 +1,10 @@
+.idea
+composer.lock
+*.log
+thinkphp
+runtime
+TPshop二开必看视频.html
+安装前必看.txt
+TPshop.mp4
+install
+vendor
