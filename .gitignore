@@ -8,4 +8,4 @@ TPshop二开必看视频.html
 TPshop.mp4
 install
 vendor
-./application/database.php
+application/database.php
